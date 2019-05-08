@@ -1,20 +1,19 @@
-```
+[gimmick:themechooser](Choose theme)
+[gimmick:theme](flatly)
 [gimmick: math]()
-```
 
-# Wiki
+[modular]()
 
-[EE]()
+ * # modules
+ * [overview](modular/overview.md)
+ * [roadmap](modular/roadmap.md)
+ * [issues](modular/issues.md)
+ * [cables](modular/cables.md)
 
- * # Basics
- * [Einschaltverhalten](ee/impulseResponse/impulseResponse.md)
+[vhdl]()
 
-[Math]()
-
-  * # Basics
-  * [PotenzGesetze](subitem1.md)
-  * [WurzelUmformung](subitem2.md)
-- - - -
-  *  # Vector
-  * [R3](math/r3.md)
-  * [R4](vectorr4)
+* # theory
+* [intro](vhdl/vhdl_intro.md)
+* [testbenches](vhdl/vhdl_testbenches.md)
+* # vhdl
+* # lab
